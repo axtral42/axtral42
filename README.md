@@ -169,14 +169,7 @@ Currently building **AI-powered cybersecurity solutions** and mentoring the next
 </td>
 <td width="50%" align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="25" /> **Interactive Portfolio**
-
-<div align="center">
-  <a href="https://anshsharma.tech">
-    <img src="https://img.shields.io/badge/🌟_Live_Demo-Visit_Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
+### **Interactive Portfolio**
 **💻 Terminal-inspired interactive experience**
 
 - 🎨 **Interface:** Retro terminal design with modern animations
@@ -215,7 +208,7 @@ Currently building **AI-powered cybersecurity solutions** and mentoring the next
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> **Achievements & Recognition**
+## **🏆 Achievements & Recognition**
 
 <div align="center">
 <table>
