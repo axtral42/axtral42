@@ -283,7 +283,7 @@ Currently building **AI-powered cybersecurity solutions** and mentoring the next
 <div align="center">
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" />
-    <em>Always open to discussing AI, Cybersecurity, Innovation, and meaningful Collaborations!</em>
+    <em>Always open to discussing AI, Cybersecurity, Innovation, and meaningful Collaborations!!</em>
   </h3>
 </div>
 
